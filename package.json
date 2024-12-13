@@ -1,0 +1,8 @@
+{
+  "type": "module",
+  "dependencies": {
+    "agentql": "^1.6.1",
+    "dotenv": "^16.4.7",
+    "playwright": "^1.49.1"
+  }
+}

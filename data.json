@@ -1,0 +1,25 @@
+{
+  "num_of_results": 5,
+  "products": [
+    {
+      "name": "Lightweight Puffer Coat",
+      "description": "Insulated, windproof",
+      "price": 100
+    },
+    {
+      "name": "Faux Fur Winter Coat",
+      "description": "Luxurious, cruelty-free",
+      "price": 150
+    },
+    {
+      "name": "Genuine Leather Trench",
+      "description": "Sleek, durable",
+      "price": 200
+    },
+    {
+      "name": "All-Weather Raincoat",
+      "description": "Waterproof, breathable",
+      "price": 90
+    }
+  ]
+}
