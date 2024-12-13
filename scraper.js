@@ -20,11 +20,10 @@ async function scraper() {
 
   // get elements
   const ELEMENTS_QUERY = `
-
     {
-      give_me_your_data
+        search_input
+        search_form_submit_btn
     }
-
   `;
 
   const response = await page.queryElements(ELEMENTS_QUERY);
